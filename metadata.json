@@ -1,0 +1,7 @@
+{
+  "name": "BahrBox",
+  "description": "Commerce & Logistique Numérique du Poisson - B2B SaaS platform for Moroccan fish merchants, fast sales entry, crate inventory, cold storage, and financial ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
